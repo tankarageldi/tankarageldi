@@ -5,7 +5,7 @@
 
 I'm a **BcS Computer Science and Math Student**
 
-- 🌱 Im learning Machine Learning & Artificial Intelligence & Frontend Development (also trying to make some games :d).
+- 🌱 Im learning Machine Learning, Web Development & Advanced DSA. (also learning to make a simple game with C++ & Unreal Engine).
 - 📚 My Projects, Notes of learning, Readings, pictures and more at [tankarageldi.github.io](http://tankarageldi.github.io).
 - 👷🏽 Currently working on building NBA Analysis & Parlay Predictor Web & Mobile application.
 - 💌 Contact me at [karagelditan@gmail.com](mailto:karagelditan@gmail.com).
